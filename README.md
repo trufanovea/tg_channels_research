@@ -30,6 +30,10 @@ Lomovka	https://t.me/lomovkaa
 
 The goal of this project is to find duplicate comments across different channels posted by users (sender_id). 
 
+The data file (.sql) is available on the following link:
+
+https://drive.google.com/file/d/1ONBeAb-FnqvOsSP1gmQqfhMILDxOqMF-
+
 The data structure includes the following fields:
 
 channel_id: ID of the chat/channel
