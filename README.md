@@ -1,7 +1,9 @@
 # tg_channels_research
 Searching for bots in telegram channels
 
-This project aims to parse a list of Telegram channels and extract relevant information from the comments. The provided Telegram channels are:
+This project aims to parse a list of Telegram channels and extract relevant information from the comments. 
+
+The provided Telegram channels are:
 
 Title	URL
 ZERGULIO🇷🇺	https://t.me/SergeyKolyasnikov
